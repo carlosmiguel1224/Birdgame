@@ -2,7 +2,6 @@
 
 ## 🎮 **2. Multiplayer Flappy Bird Game (LAN)**
 
-```markdown
 # 🐦 Multiplayer Flappy Bird (LAN-Based)
 
 A Python-based real-time multiplayer game inspired by Flappy Bird, built with Pygame and a custom socket-based server. Allows up to 10 players to compete over a LAN network.
